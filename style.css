@@ -281,4 +281,48 @@ h2.firm-style__video--title {
 	background-image: url(../assets/images/firm-style/icons/video-stop-black.jpg);
 }
 /*****end // Firm-style Video-section*****/
+/*****start // Firm-style Descr-section*****/
+
+.firm-style__descr--wrap {
+	background-image: url(firm-style/bg-dashed.png);
+	background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.firm-style__descr {
+  	display: -webkit-flex;
+  	display: -moz-flex;
+  	display: -ms-flex;
+  	display: -o-flex;
+  	display: flex;
+}
+.firm-style__descr--text-first {
+	padding: 45px 0px 15px 90px;
+}
+.firm-style__descr--text-second {
+	width: 777px;
+	padding: 27px 137px 0px 57px;
+}
+.firm-style__descr--text-third {
+	padding: 27px 61px 0px 93px;
+}
+.firm-style__descr--icon {
+	text-align: center;
+    width: 330px;
+    position: relative;
+}
+.firm-style__descr--icon-first {
+	top: 15px;
+    left: 40px;
+}
+.firm-style__descr--icon-second {
+	top: -18px;
+    left: 35px;
+}
+.firm-style__descr--icon-third {
+	top: -13px;
+    left: 11px;
+}
+
+/*****end // Firm-style Descr-section*****/
 /*****final // Firm-style *****/
